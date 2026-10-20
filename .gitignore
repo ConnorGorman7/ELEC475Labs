@@ -1,0 +1,12 @@
+# Only lab2 is tracked for now
+Lab1/
+
+# Data
+lab2_template/data/
+lab2_template/tiny-imagenet-200/
+*.tar.gz
+
+# Environments / caches
+.venv/
+__pycache__/
+*.pyc
